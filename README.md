@@ -1,4 +1,5 @@
 ## [Space Travel Website](https://frontendella-space-travel-website.netlify.app) (currently in a progress)
+[<img width="1540" alt="Space Travel Website pages" src="https://user-images.githubusercontent.com/82247833/229974607-c53c1d81-65e9-4238-9cbf-abe615f7d67b.png">](https://frontendella-space-travel-website.netlify.app)
 
 
 ### About 
