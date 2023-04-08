@@ -1,21 +1,52 @@
-# coe714e929cd52c335b5db11f
+## [Space Travel Website](https://frontendella-space-travel-website.netlify.app) (currently in a progress)
+[<img width="1540" alt="Space Travel Website pages" src="https://user-images.githubusercontent.com/82247833/229974607-c53c1d81-65e9-4238-9cbf-abe615f7d67b.png">](https://frontendella-space-travel-website.netlify.app)
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+### About 
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+* Creating design systems
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+* CSS resets
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+* Utility classes
 
-Happy Coding!
+* Using color
+
+* Responsive typography
+
+* Adding spacing
+
+* Effective buttons
+
+* Underline indicators
+
+* Dot indicators
+
+* Number indicators
+
+* Grid containers
+
+* Responsiveness
+
+* Adding background images
+
+* Navigation
+
+* Open/close buttons
+
+* Accessibility tweaks
+
+* Skip to content
+
+* Alignment
+
+* The picture element
+
+* Keyboard navigation
+
+* Tabs
+
+* Refactoring
+
+#### Resources
+[Scrimba](https://scrimba.com/learn/spacetravel)
