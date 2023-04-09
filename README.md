@@ -1,6 +1,6 @@
 ## [Space Travel Website](https://frontendella-space-travel-website.netlify.app) (currently in a progress)
-[<img width="1540" alt="Space Travel Website pages" src="https://user-images.githubusercontent.com/82247833/229974607-c53c1d81-65e9-4238-9cbf-abe615f7d67b.png">](https://frontendella-space-travel-website.netlify.app)
 
+![space_travel_website (1)](https://user-images.githubusercontent.com/82247833/230747943-283c331d-eb47-4844-b8a3-a27157ef518a.gif)
 
 ### About 
 
@@ -47,6 +47,13 @@
 * Tabs
 
 * Refactoring
+
+## Mobile Version
+
+
+![mobile version](https://user-images.githubusercontent.com/82247833/230747955-5039464c-2c9e-4867-828f-743bafe17eaf.gif)
+
+
 
 #### Resources
 [Scrimba](https://scrimba.com/learn/spacetravel)
