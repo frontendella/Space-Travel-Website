@@ -1,4 +1,4 @@
-## [Space Travel Website](https://frontendella-space-travel-website.netlify.app) (currently in a progress)
+## [Space Travel Website](https://frontendella-space-travel-website.netlify.app)
 
 ![different sizes](https://user-images.githubusercontent.com/82247833/230748446-12d63c58-dba7-43d5-8c68-a8c0e6e55995.png)
 
