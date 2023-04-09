@@ -1,7 +1,8 @@
 ## [Space Travel Website](https://frontendella-space-travel-website.netlify.app) (currently in a progress)
 
-![space_travel_website (1)](https://user-images.githubusercontent.com/82247833/230747943-283c331d-eb47-4844-b8a3-a27157ef518a.gif)
+![different sizes](https://user-images.githubusercontent.com/82247833/230748446-12d63c58-dba7-43d5-8c68-a8c0e6e55995.png)
 
+![space_travel_website (1)](https://user-images.githubusercontent.com/82247833/230747943-283c331d-eb47-4844-b8a3-a27157ef518a.gif)
 
 <table align="center">
   <tr>
