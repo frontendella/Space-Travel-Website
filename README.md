@@ -4,7 +4,7 @@
 
 ![space_travel_website (1)](https://user-images.githubusercontent.com/82247833/230747943-283c331d-eb47-4844-b8a3-a27157ef518a.gif)
 
-<table align="center">
+<table align="center">  
   <tr>
     <td>
       <ul>
